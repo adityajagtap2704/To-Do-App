@@ -59,16 +59,16 @@ JWT_SECRET=thisisasecretkey
 
 💡 Note: For Gmail password, generate an App Password via your Google account > Security > App Passwords.
 
-## 🏃‍♂️ Run the App
+# 🏃‍♂️ Run the App
 Start both frontend and backend servers:
 
-# Start Backend :
+## Start Backend :
 ```bash
 cd backend
 nodemon server
 ```
 
-# Start Frontend
+## Start Frontend
 ```bash
 cd frontend
 npm start
